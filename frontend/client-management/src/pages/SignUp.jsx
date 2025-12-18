@@ -78,7 +78,7 @@ const SignUp = () => {
 
           <p className="mt-6 text-center text-sm text-gray-600">
             Already have an account?{" "}
-            <a href="#" className="text-blue-700 hover:underline">
+            <a href="#" className="text-green-500 hover:underline">
               Log in
             </a>
           </p>
